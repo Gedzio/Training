@@ -1,0 +1,2 @@
+Add some text for feature 1
+Using common methods
