@@ -11,3 +11,5 @@ long
 long 
 long 
 This line finish feature in sql2 procedure
+
+Extending Procedure2
