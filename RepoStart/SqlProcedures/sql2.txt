@@ -1,5 +1,6 @@
 this is my default procedure2
 this procedure had some bugs before i fixed them
+another fix for this bug
 This feature also need changes in this place
 this is my default procedure2
 Adding new feature to sql2
